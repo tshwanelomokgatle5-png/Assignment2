@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LifeHackApp</string>
+    <string name="correct_feedback">Correct! 🎉\n%1$s</string>
+    <string name="wrong_feedback">Wrong! ❌\n%1$s</string>
+    <string name="score_format">Your Score: %1$d / %2$d</string>
+    <string name="restart_quiz">Restart Quiz</string>
+    <string name="hack_button_text">Hack (True)</string>
+    <string name="myth_button_text">Myth (False)</string>
+    <string name="next_button_text">Next</string>
+</resources>
